@@ -1,3 +1,3 @@
 # csc-372-test
 
-khawaja waheed
+Khawaja Rohan Waheed
